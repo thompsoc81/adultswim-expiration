@@ -27,7 +27,7 @@ This script can be installed easily by first adding the [Tampermonkey](https://t
 
 The Tampermonkey extension should intercept the link opening and ask if it can install the script.  If it does not do this, open the extension's Dashboard page and add this script manually.  That's it!  It should now run on any URL visited that matches http[s]://adultswim.com/videos/*
 
-While this script was designed and tested with Tampermonkey in Chrome, it may work (or with only slight modification) within the original user script extension, [Greasemonkey](https://greasespot.net).  This has not bee tested, but this script is not ocmplex nor using any arcane features.  It likely is compatible.
+While this script was designed and tested with Tampermonkey in Chrome, it may work (or with only slight modification) within the original user script extension, [Greasemonkey](https://greasespot.net).  This has not been tested, but this script is not ocmplex nor using any arcane features.  It likely is compatible.
 
 &nbsp;
 
