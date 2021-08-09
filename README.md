@@ -74,7 +74,7 @@ Each increase in "urgency" will also slightly increase the label text size.
     }
 ```
 
-*(Due to time zone calculation issues explained below, treat this like just a "good enough" approximation.  It is not guaranteed for total accuracy.)*
+*(Due to time zone calculation issues explained below, treat this like just a "good enough" approximation.  It is not guaranteed for total accuracy.  Don't save your viewing until the last minute on a red day without checking the actual hour it will disappear!)*
 
 &nbsp;
 
