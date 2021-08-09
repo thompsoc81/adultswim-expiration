@@ -6,6 +6,7 @@
 // @author       https://www.github.com/thompsoc81
 // @match        http://*.adultswim.com/videos/*
 // @match        https://*.adultswim.com/videos/*
+// @downloadURL  https://github.com/thompsoc81/adultswim-expiration/raw/main/adultswim-expiration.user.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
